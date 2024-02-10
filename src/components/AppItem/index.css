@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.listContainer {
+  background-color: #ffffff;
+  padding: 25px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+  border-radius: 12px;
+}
+.image {
+  width: 102px;
+}
+.para {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
